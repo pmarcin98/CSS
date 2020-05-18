@@ -1,0 +1,22 @@
+article {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: linen;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    
+}
+h1{
+    color: red;
+    padding-bottom: 20px;
+   
+}
+p{
+    padding-bottom: 20px;
+}
+#p1{
+    color: brown;
+}
+#p2{
+    color: darkblue;
+}
