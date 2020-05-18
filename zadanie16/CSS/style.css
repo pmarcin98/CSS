@@ -1,5 +1,8 @@
-body {
+section {
     background-color: grey;
+    margin-right: 80%;
+    padding-top: 1px;
+    padding-bottom: 30px;
 }
 h1 {
     color: white;
