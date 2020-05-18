@@ -1,0 +1,11 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: springgreen;
+}
+#p1, #p4, #p7{
+    background-color: teal;
+}
+#p2, #p3{
+    opacity: 0.2;
+}
