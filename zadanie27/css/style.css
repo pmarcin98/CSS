@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+#div1{
+    background-color: red;
+    border-radius: 50%;
+
+}
+#div2{
+    background-color: blue;
+    border-top-left-radius: 25px;
+}
